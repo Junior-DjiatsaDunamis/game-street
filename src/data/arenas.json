@@ -1,0 +1,84 @@
+[
+  {
+    "id": 1,
+    "name": "Phase 1 : Storm 4",
+    "players": "3 Joueurs",
+    "color": "orange",
+    "description": "Le tournoi des stratèges. Format élimination directe.",
+    "imageUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/349040/capsule_616x353.jpg?t=1703080866",
+    "videoUrl": "https://www.youtube.com/watch?v=9Vm4m15r2Xc",
+    "rules": [
+      {
+        "text": "Règle du Relais : Un joueur doit attendre 2 tours avant de rejouer."
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Phase 2 : Blur",
+    "players": "Full Team by One",
+    "color": "blue",
+    "description": "La course au chaos en réseau local (LAN).",
+    "imageUrl": "https://i.redd.it/blur-2010-cover-art-uncropped-5120x2880-v0-6jb5d6vgcrwb1.png?width=5120&format=png&auto=webp&s=6669724e18797c7b019b61d477212a05e7f020e4",
+    "videoUrl": "https://www.youtube.com/watch?v=yBDLMzwMAdc",
+    "rules": [
+      {
+        "text": "Simultané : Tous les joueurs s'affrontent en même temps."
+      },
+      {
+        "text": "Scoring : La place du joueur de l'équipe choisi."
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Phase 3 : FC 25",
+    "players": "2 Joueurs",
+    "color": "green",
+    "description": "Le football virtuel. Le moment du rattrapage.",
+    "imageUrl": "https://bleedingcool.com/wp-content/uploads/2024/07/EA-Sports-FC-25-Cover-Art-2000x1125.jpg",
+    "videoUrl": "https://www.youtube.com/watch?v=pBM2xyco_Kg",
+    "rules": [
+      {
+        "text": "Restriction : Uniquement les 2 joueurs n'ayant PAS joué à Storm 4."
+      },
+      {
+        "text": "Bonus : +5 pts si victoire \"Perfect\" (3-0)."
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Phase 4 : Just Dance",
+    "players": "1-2 Joueurs",
+    "color": "pink",
+    "description": "Endurance physique et sens du rythme.",
+    "imageUrl": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/3nXuR3CB95qkGIeNVT2XCe/02068177d7b094493bf01c83f541b392/jd25.jpg",
+    "videoUrl": "https://www.youtube.com/watch?v=fAMgoMimSvQ",
+    "rules": [
+      {
+        "text": "Show : Épreuve sur scène devant le public."
+      },
+      {
+        "text": "Libre : N'importe quel membre de l'équipe peut participer."
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Phase 5 : Brawlhalla",
+    "players": "2 Joueurs (Libre)",
+    "color": "yellow",
+    "description": "Le Tie-Breaker nerveux. Tout peut basculer.",
+    "imageUrl": "https://images.ctfassets.net/pc3i4f5nnp8d/7FukNWz1Dksq5OafQq7sMy/39c7f2ef8895e60e364e200ecf618ac8/biborg-work-ubisoft-brawlhalla-header.jpg",
+    "videoUrl": "https://www.youtube.com/watch?v=Odj7pIsHRt0",
+    "rules": [
+      {
+        "text": "Enjeu : Coefficients élevés pour la fin de tournoi."
+      },
+      {
+        "text": "Bounty : Récompense immédiate pour les vainqueurs de phase."
+      }
+    ]
+  }
+]
