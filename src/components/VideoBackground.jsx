@@ -84,6 +84,9 @@ export function VideoBackground({ videoUrl, className = '' }) {
           allow="autoplay; encrypted-media; picture-in-picture"
           allowFullScreen
           frameBorder="0"
+          loading="lazy"
+          title="Video background"
+          sandbox="allow-scripts allow-same-origin allow-presentation"
         />
       )}
       
